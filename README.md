@@ -6,8 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
-### Links
-* Solution URL: https://github.com/asaggse/QR-code-component
+### Link
 * Live Site URL: https://asaggse.github.io/QR-code-component/
 
 ## My process
